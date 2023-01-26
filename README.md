@@ -77,7 +77,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-### 👉 Software & Tools
+### 👉 Software & Tools soon..
 <p>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
