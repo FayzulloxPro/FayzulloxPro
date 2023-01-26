@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Yusupov Fayzullo!;Welcome+to+my+GitHub+Profile!">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Fayzullokh Kakhramonov!;Welcome+to+my+GitHub+Profile!">
 </h1>
 
 <h1 align="center">
-    <a href="https://github.com/YusupovFayzullo" target="_self">
+    <a href="https://github.com/FayzulloxPro" target="_self">
         <img alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
     </a>
 </h1>
@@ -28,10 +28,9 @@ Here are some ideas to get you started:
 <hr>
 <pre>
 💻 I am Java backend and Database developer.
-📚 I have a Bachelors in Cyber security from the Tashkent University of Information Technologies.
+📚 I have a Bachelors in Information technology from the Turin polytechnic University in Tashkent.
 📝 I have a strong interest in Data Science and Artificial Intelligence
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Java, C++
+🌟 Main languages: Java, C++, C and Python
 
 </pre>
 <hr>
@@ -39,8 +38,8 @@ Here are some ideas to get you started:
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-    [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusupov-fayzullo-b483ba259/)
-    [![image](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Yusupov_Fayzullo)
+    [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fayzullox-qaxramonov-682183223/)
+    [![image](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anonim_user1)
 
 </div>
 
