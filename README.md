@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anonim_user1)
+[![image](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anonimaaaaaaaa)
 	
 </div>
 
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-### 👉 Software & Tools soon..
+### 👉 Software & Tools 
 <p>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
